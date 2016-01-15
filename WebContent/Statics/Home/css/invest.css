@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+/* 我要投资 */
+.invest{width:100%;position:relative;overflow:hidden;height:388px; background-color:#f3f8ff;border-bottom:1px #eee solid;}
+.invest .inveimg{ width:2000px;position:absolute;left:50%; margin-left:-1000px;}
+.topimg{width:100%;position:relative;overflow:hidden;height:388px; background-color:#f3f8ff;border-bottom:1px #eee solid;}
+.topimg img{ width:2000px;position:absolute;left:50%; margin-left:-1000px;}
+.ilieb{ width:1200px; margin:26px auto 0; font-size:16px;}
+.ilieb ul li{ height:30px; line-height:30px; margin-bottom:18px;}
+.ilieb ul li a{ float:left; display:block; height:30px; color:#666; margin:0 12px; padding:0 16px; text-align:center;}
+.ilbzt{ float:left; color:#999; margin-right:3px; _margin-right:3px;}
+.ilieb ul li a:hover{ background-color:#f3f3f3;-moz-border-radius: 25px; -webkit-border-radius: 25px;border-radius:25px;}
+.ilieb ul li a.iany{ background-color:#ff9c01; font-style:normal; color:#FFF; transition:background-color 0.3s;-moz-transition:background-color 0.3s; -webkit-transition:background-color 0.3s; -o-transition:background-color 0.3s;-moz-border-radius: 25px; -webkit-border-radius: 25px;border-radius:25px;}
+.ilieb ul li a.iany:hover{ background-color:#ffa61a;}
+.ixmtop{border-top:1px #eee solid; background-color:#f3f8ff;}
+.irzxm{ width:1200px; margin:0 auto;}
+.itzlx{ margin:30px 0;}
+.itzlx span{ display:block; width:148px; height:16px; line-height:16px; float:left; color:#333; text-align:center; border-left:1px #ccc solid;}
+.itzlx span font{ color:#0869ca;}
+.itzlx span.itzfir{ border-left-style:none; text-align:left; margin-left:2px;}
+
+/*项目列表*/
+.xmlb_1{width:1200px;height:180px;border:1px solid #eee; margin-bottom:15px; background-color:#fff;}
+.xmlb_1 .xmlb_12{width:175px;height:142px; padding:38px 0 0 25px; background-color:#ff9c01; background-image: url(../imgs/richi.jpg); background-repeat:no-repeat; background-position: right 0;float:left; font-size:16px; color:#FFF; margin-right:19px; _margin-right:19px;}
+.xuimg{float:left;}
+ .xulb_13{float:left;height:180px;}
+.xulb14{float:left;width:330px; color:#999; padding-top:22px;}
+.jkxq{float:left;width:360px; color:#999; padding-top:22px;}
+.xulb14_odiv{float:left;width:120px; line-height:24px}
+.xulb14_odiv ul{list-style:none;}
+.xulb14_odiv ul li{margin-bottom:10px;}
+.xulb14_odiv2{float:left;width:240px; line-height:24px}
+.xulb14_odiv2 ul{list-style:none;}
+.xulb14_odiv2 ul li{margin-bottom:10px;}
+.xulb14_p{ font-size:24px; line-height:24px; color:#666666;margin-top:30px;}
+.myhx{ font-size:18px;}
+.jkqx{font-size:14px; line-height:42px;}
+.jktime{ font-size:30px; color:#333;}
+.xulb14_pp{font-size:20px;color:#999;height:18px;margin:20px 0px 20px 0px;}
+.xulb14_p2{font-size:14px; line-height:42px;}
+.xulb14 .progress_box{width:289px; height:10px; background: #e0e0e0;-moz-border-radius: 25px; -webkit-border-radius: 25px;border-radius:25px;}
+.xulb14 .progress_box .progress_ing{width:30%; height:10px; overflow:hidden; background: #ffc001;-moz-border-radius: 25px; -webkit-border-radius: 25px;border-radius:25px;}
+.lj_li{ width:220px; margin:0 auto;}
+.li_imgs{float:right; width:230px; margin:22px 20px 0 0; _margin:22px 10px 0 0; display:block; height:50px; line-height:50px; background-color:#2572c0; font-size:18px;font-weight:bold; text-align:center; transition:background-color 0.3s;-moz-transition:background-color 0.3s; -webkit-transition:background-color 0.3s; -o-transition:background-color 0.3s;-moz-border-radius: 25px;  -webkit-border-radius: 25px;border-radius:25px;  }
+.li_imgs_full{float:right; width:230px; margin:22px 20px 0 0; _margin:22px 10px 0 0; display:block; height:50px; line-height:50px; background-color:#999; font-size:18px;font-weight:bold; text-align:center; transition:background-color 0.3s;-moz-transition:background-color 0.3s; -webkit-transition:background-color 0.3s; -o-transition:background-color 0.3s;-moz-border-radius: 25px;  -webkit-border-radius: 25px;border-radius:25px;  }
+a.li_imgs{ color:#fff;}
+a.li_imgs:hover{ background-color:#1C5FA2;}
+a.li_imgs_full{ color:#fff;}
+a.li_imgs_full:hover{ background-color:#888;}
+.yjnh{font-size:16px; line-height:40px;}
+.nhl{font-size:48px; font-weight:bold;}
+.nhl font{font-size:18px;}
+.xulb15{float:right; width:230px; margin:76px 10px 0 0; _margin:76px 10px 0 0;}
+.sysj{color:#999; font-size:14px;}
+.sysj img{ vertical-align: bottom;}
+.xulb15 ul li{text-align:center;}
+.xulb16{width:979px;float:left;}
+.xulbss2{margin-top:15px;margin-bottom:30px;width:600px;height:20px;font-size:15px;color:#ffffff;}
+.xulbss2 p{line-height:1.8em;text-align:center;}
+.xulbss2 .xulbss2_img{float:left;height:30px;}
+
+.ifenye{ width:670px; margin:0 auto; padding:37px 0 90px; font-size:14px;}
+.ifenye a{ display: block; padding:3px 8px; float:left; border:1px #eee solid; margin:0 5px; _margin:0 5px; background-color:#FFF;-moz-border-radius: 5px;  -webkit-border-radius: 5px;border-radius:5px;color:#666;}
+.ifenye a:hover{background-color:#ff9c01; color:#fff; }
+.ifenye span{ display: block; padding:3px 8px; float:left; color:#666; border:1px #eee solid; margin:0 5px; _margin:0 5px; background-color:#FFF;-moz-border-radius: 5px;  -webkit-border-radius: 5px;border-radius:5px;}
+.ifenye .isj{ color:#ccc;}
+.ifenye .ifocus{ color:#fff; background-color:#ff9c01;}
+.ifenye .islx{ border: none; background-color:#f3f8ff;}
+/*奖励小图标*/
+.xszx{ display: inline-block; width:73px; height:20px; line-height:20px;background:url(../imgs/bg_red.png) 0 center no-repeat; font-size:12px; color:#fff; text-align:center; vertical-align: middle;}
+.redbao{ display: inline-block; width:46px; height:18px; line-height:18px;font-size:12px; color:#333; background-color:#f5f5f5; text-align:center; border:1px #eee solid; vertical-align:middle;}
+.tb_tyb{ display: inline-block; width:65px; height:20px; line-height:20px;background:url(../imgs/bg_green.png) 0 center no-repeat; font-size:12px; color:#fff; text-align:center; vertical-align: middle;}
+.tb_hb{ display: inline-block; width:56px; height:18px; line-height:18px;font-size:12px; color:#333; background-color:#f5f5f5; text-align:center; border:1px #eee solid; vertical-align:middle;}
+.tb_jxj{ display: inline-block; width:56px; height:18px; line-height:18px;font-size:12px; color:#333; background-color:#f5f5f5; text-align:center; border:1px #eee solid; vertical-align:middle;}
+/*奖励小图标 end*/
+
+
+
+
+
+
+
+
+
+
+

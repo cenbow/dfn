@@ -1,0 +1,38 @@
+body{ min-width:1200px; }
+.section1{ background-color:#dbf3ef;}
+.section2{ background-color:#e6f5fa;}
+.section3{ background-color:#f7f2e5;}
+.section4{ background-color:#e8eff7;}
+.section5{ background-color:#f8ebec;}
+.section6{ background-color:#e0f5dc;}
+.p_header{ height:40px; border-bottom:1px solid #eee; padding:0 30px; line-height:40px; font-size:14px; background-color:#0ead90;}
+.p_header img{margin-top:6px; float:left;}
+.p_header ul{ float:right;}
+.p_header ul li{ float:left; margin-left:40px;}
+.p_header ul li a{ color:#fff;}
+.pa02{ background-color:#00a9e1;}
+.pa03{ background-color:#ffc001;}
+.pa04{ background-color:#4f78bc;}
+.pa05{ background-color:#e75660;}
+.pa06{ background-color:#5fa751;}
+.main_p1{ width:1200px; margin:80px auto 0;}
+.xlzf01{ text-align:center; margin:10px auto 0;}
+.main_p1 img{ margin:0 auto;}
+
+.xinlang1{ margin:0 auto; width:1200px; }
+.xinlang_div_1{ margin-top:30px; }
+.libieoqiu{float:left;}
+.libieoqiu ul{ margin:0px; padding:0px; list-style:none; margin-top:250px;}
+.libieoqiu ul li{ margin-top:30px;}
+
+/*第二个页面*/
+.xinlang_div_p1{ width:900px; margin:0px auto; line-height:2em; font-size:18px; color:#333; margin-left:160px; margin-bottom:30px;}
+.xinlang_div_p01{ width:590px; margin:0px auto; line-height:2em; font-size:18px; color:#333; margin-left:275px; margin-bottom:30px;}
+/*第三,四,五,六个页面*/
+.xinlang3_p{ font-size:48px;text-align:center; margin:7% 0 30px;}
+.xinlang03_p{ font-size:48px;text-align:center;margin:7% 0 30px;}
+.main_p1{ width:1200px; margin:80px auto 0;}
+.xlzf01{ text-align:center; margin:10px auto 0;}
+.main_p1 img{ margin:0 auto;}
+.texcen{ text-align:center;}
+.texcen img{ margin:0 auto;}

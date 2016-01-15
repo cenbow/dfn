@@ -1,0 +1,29 @@
+.header{ height:80px; border-bottom:1px solid #eee; padding:0 30px; line-height:80px; font-size:14px;}
+.header img{margin-top:20px; float:left;}
+.header ul{ float:right;}
+.header ul li{ float:left; margin-left:40px;}
+.main_ph{width:100%;position:relative; height:650px; overflow:hidden;}
+.bg_ph{ background:url(../images/photos/bg.png) 0 80px no-repeat; width:2000px;position:absolute;left:50%; margin-left:-1000px;}
+
+.con_ph{ width:1360px; height:650px; margin:0 auto;}
+.con_ph a.img1{display:block; width:230px; height:167px; background:url(../images/photos/inside.png) no-repeat; margin:370px 0 0 67px; _margin:370px 0 0 33px;  float:left; }
+.con_ph a.img1:hover{background:url(../images/photos/inside_h.png) no-repeat;}
+.con_ph a.img2{ display:block; width:549px; height:482px; background:url(../images/photos/employee.png) no-repeat; margin-left:145px; margin-top:60px; float:left;}
+.con_ph a.img2:hover{  background:url(../images/photos/employee_h.png) no-repeat;}
+.con_ph a.img3{display:block; width:230px; height:167px; background:url(../images/photos/outside.png) no-repeat;  margin-left:102px; float:left; margin-top:370px; }
+.con_ph a.img3:hover{background:url(../images/photos/outside_h.png) no-repeat;}
+
+/*大图展示页面*/
+.main_big{ padding:30px;}
+.close{ display: block; width:25px; height:24px; background:url(../images/photos/close.png) no-repeat; float:right; }
+.close:hover{ background:url(../images/photos/close_h.png) no-repeat;}
+.tab{ width:540px; margin:0 auto; font-size:24px; line-height:40px;}
+.tab ul li{ float:left; width:180px; text-align:center;}
+.tab ul li a{ color:#fff;}
+.tab ul li img{ position:absolute; margin-top:45px; margin-left:-50px;}
+.pic{ width:1200px;  margin:0 auto; margin-top:70px; _margin-top:35px;}
+.pic .left{ display:block; width:44px; height:43px; background:url(../images/left.png) no-repeat; float:left; margin-top:230px; }
+.pic .left:hover{background:url(../images/left_h.png) no-repeat;}
+.pic img{ float:left; margin-left:50px;}
+.pic .right{ display:block; width:44px; height:43px; background:url(../images/right.png) no-repeat; float:left; margin-left:50px;margin-top:230px; }
+.pic .right:hover{background:url(../images/right_h.png) no-repeat;}

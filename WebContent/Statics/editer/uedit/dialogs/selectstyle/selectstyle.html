@@ -1,0 +1,69 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <title></title>
+		<script type="text/javascript" src="../internal.js"></script>
+        <script type="text/javascript" src="../../selectstyle_config.js"></script>
+        <style type="text/css">
+            html,body{
+                _overflow:hidden;
+            }
+            *{margin: 0;padding: 0;line-height: 20px;}
+            .wrapper{width: 520px;height: 300px; margin: 10px 15px;font-size: 12px}
+            textarea{width:510px ;height: 300px;resize: none;margin:5px;*margin-left:-12px;}
+			#_uedit_selectstyle_list p{height:30px; line-height:30px; border-bottom:1px dotted #999999;}
+			#_uedit_selectstyle_list p:hover,._pselected{background:#FC9}
+			
+        </style>
+    </head>
+    <body>
+    <div class="wrapper" id="_uedit_selectstyle_list">
+
+    </div>
+        <script type="text/javascript">
+			//dialog对象
+			var me = editor;
+			var _uedit_selectstyle_html="";
+			for(i in ueditSelectStyle){
+				_uedit_selectstyle_html+= '<p onclick="_selectstyle_click('+i+');" class="_selectstyle" data="'+i+'">'+ueditSelectStyle[i].name+'</p>';
+			}
+			document.getElementById("_uedit_selectstyle_list").innerHTML = _uedit_selectstyle_html;
+			
+			
+            dialog.onok = function(){
+				var selectedSN=false;
+				var plist = document.getElementById("_uedit_selectstyle_list").getElementsByTagName("p");
+				for(j in plist){
+					if(typeof plist[j]!="undefined" && plist[j].className=="_selectstyle _pselected") selectedSN=j;
+				}
+
+				if(selectedSN!==false){
+					obj = ueditSelectStyle[selectedSN];	
+				}
+				var objsend = {
+					url:obj.url,
+					bodycss:obj.cssname
+				};
+				me.execCommand( "selectstyle", objsend );
+				/*
+                if(code.value.replace(/^\s*|\s*$/ig,"")){
+                    editor.execCommand("highlightcode",code.value,language);
+                    dialog.close();
+                }else{
+                    alert(lang.importCode);
+                }
+				*/
+            };
+			
+			function _selectstyle_click(sn){
+				var plist = document.getElementById("_uedit_selectstyle_list").getElementsByTagName("p");
+				for(j in plist){
+					if(typeof plist[j]!="undefined") plist[j].className="_selectstyle";
+				}
+				plist[sn].className="_selectstyle _pselected";
+			}
+        </script>
+    </body>
+</html>

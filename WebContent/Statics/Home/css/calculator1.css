@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+.pb30 {
+	padding-bottom:30px;
+}
+.cal_curpage{padding:30px 0 10px 0;}
+.cal_curpage span{color:#666;font-size:14px;margin:0 5px;}
+.cal_curpage a{color:#666;font-size:14px;}
+.cal_text{border:1px solid #e5e5e5;background-color:#fff;}
+.cal_text_tit{ height:45px;line-height:45px;color:#414141;font-size:18px; border-bottom:1px solid #DEDEDE; text-indent:30px;}
+.cal_text label{display:inline-block;width:65px;padding-right:20px;height:34px;line-height:34px;color:#414141;font-size:14px;}
+.cal_text input{width:220px;height:32px;border:1px solid #ebebeb;padding:0 30px 0 10px;outline:none;background-color:#fff;}
+.cal_inputbg1{background:url(../images/zyz_yuan.png) no-repeat right center;}
+.cal_inputbg2{background:url(../images/zyz_bfh.png) no-repeat right center;}
+.cal_select select{width:130px;height:25px;}
+.cal_btn{width:260px;height:50px;border-radius:5px;background-color:#f3983d;line-height:50px;text-align:center;color:#fff;font-size:18px;display:inline-block;}
+.bombbox{background-color:#fff;/*left:50%;margin-left:-277px;top:20%;*/z-index:100;}
+.bombbox_tit{padding:15px 20px;background-color:#f3983d;}
+.bombbox_tit span{color:#fff;font-size:16px;cursor:pointer;display:inline-block;}
+.bombbox_ul{padding:35px 30px;}
+.bombbox_ul span{color:#333333;font-size:14px;}
+.bombbox_ul span strong{color:#f3983d;}
+.bombbox_table td{line-height:40px;color:#555;font-size:12px;width:111px;text-align:center;}
+.bombbox_table th{line-height:40px;color:#000;font-size:14px;font-weight:bold;width:111px;text-align:center;}
+.bombbox_table .firsttr{background-color:#f3f6fb;border-bottom:none;}
+.bombbox_table tr{border-bottom:1px solid #f5f5f5;}
+#transparentbg {
+    display: none;
+    position: absolute;
+    z-index:99;
+    top: 0px;
+    left: 0px;
+    right:0px;
+    background-color: #777;
+    filter:progid:DXImageTransform.Microsoft.Alpha(style=3,opacity=25,finishOpacity=75)
+    opacity: 0.3;
+}
+

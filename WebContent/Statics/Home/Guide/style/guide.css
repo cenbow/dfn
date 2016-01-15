@@ -1,0 +1,121 @@
+@charset "utf-8";
+/* CSS Document */
+.black20{clear:both; height:20px; overflow:hidden; display:block;}
+.black10{clear:both; height:10px; overflow:hidden; display:block;}
+
+
+
+/*通用背景样式*/
+.guide_box_blue{height:100%; width:100%; background:#30b3f1; font-size:14px; color:#ffffff;}
+.guide_box_white{height:100%; width:100%; background:#ffffff;font-size:14px; color:#666666;}
+
+
+
+
+
+
+
+/*banner*/
+.guide_banner{ background:url(../images/guide_banner.jpg) no-repeat center; height:350px;margin-top:-10px; width:100%;}
+
+
+/*认识融圣360*/
+.guide_know{ height:180px; text-align:center;}
+.guide_know p.title{ font-size:40px; color:#414141; height:100px; line-height:100px;}
+
+
+/*融圣360的特点*/
+.guide_point{height:520px;}
+.guide_point h1{ padding:60px 0 60px 0;}
+.guide_point h1 span{ padding:0 20px 0 254px;}
+.guide_point h1 p{}
+.guide_point h1 p.title{ font-size:40px; color:#414141; height:40px; line-height:40px;}
+.guide_point h1 p.title_2{color:#666666; height:21px; line-height:21px; text-transform:uppercase; font-size:14px;}
+
+.guide_point ul{}
+.guide_point ul li{width:490px; height:130px; background:#ffffff; margin:0 20px 20px 0;}
+.guide_point ul li span{ margin-right:30px;}
+.guide_point ul li p.title{ font-size:24px; color:#414141; height:60px; line-height:60px;}
+.guide_point ul li p.title_2{ width:480px;_width:320px;color:#666666;height:19px; line-height:19px;}
+.guide_point ul li.cur{ margin-right:0;}
+
+
+
+/*360运作模式*/
+.guide_pattern{ height:650px;}
+.guide_pattern h2{ padding:60px 0 60px 0;}
+.guide_pattern h2 span{ padding:0 20px 0 254px;}
+.guide_pattern h2 p{}
+.guide_pattern h2 p.title{ font-size:40px; color:#414141; height:40px; line-height:40px;}
+.guide_pattern h2 p.title_2{color:#666666; height:21px; line-height:21px; text-transform:uppercase;}
+
+
+
+/*融圣360有哪些理财产品*/
+.guide_product{height:554px;}
+.guide_product h3{ padding:60px 0 60px 0;}
+.guide_product h3 span{ padding:0 20px 0 254px;}
+.guide_product h3 p{}
+.guide_product h3 p.title{ font-size:40px; color:#414141; height:40px; line-height:40px;}
+.guide_product h3 p.title_2{color:#666666; height:21px; line-height:21px; text-transform:uppercase; font-size:14px;}
+
+.guide_product ul{}
+.guide_product ul li{width:184px; height:294px; background-color:#ffffff; margin-right:20px; position:relative; float:left;}
+.guide_product ul li span{ position:absolute; left:30px; bottom:-20px;}
+.guide_product ul li p.icon{ padding:45px 0 0 75px;}
+.guide_product ul li p.title{ height:44px; line-height:44px;color:#f3983d; font-size:20px; text-align:center; margin-bottom:18px;}
+.guide_product ul li p.title_2{height:21px; line-height:21px; font-size:14px; width:160px; padding-left:15px;color:#666666;}
+.guide_product ul li.cur{ margin-right:0;}
+
+
+
+
+/*为什么选择融圣360*/
+.guide_why {height:425px;}
+.guide_why h4{ padding:60px 0 60px 0;}
+.guide_why h4 span{ padding:0 20px 0 254px;}
+.guide_why h4 p{}
+.guide_why h4 p.title{ font-size:40px; color:#414141; height:40px; line-height:40px;}
+.guide_why h4 p.title_2{color:#666666; height:21px; line-height:21px; text-transform:uppercase;}
+
+.guide_why ul{}
+.guide_why ul li{ float:left; margin-right:20px;}
+.guide_why ul li.cur{margin-right:0;}
+
+
+
+
+/*3重安全保障实现百里挑一*/
+.guide_safe{height:490px; text-align:center; padding-top:60px;}
+.guide_safe h4{ color:#fff;}
+.guide_safe h4 p.title{ font-size:40px;height:40px; line-height:40px;}
+.guide_safe h4 p.title_2{height:21px; line-height:21px; text-transform:uppercase; font-size:14px;}
+
+
+
+
+/*--融圣360教你如何投资*/
+.guide_invest{ height:1035px;}
+.guide_invest h4{ padding:60px 0 60px 0;}
+.guide_invest h4 span{ padding:0 20px 0 254px;}
+.guide_invest h4 p{}
+.guide_invest h4 p.title{ font-size:40px; color:#414141; height:40px; line-height:40px;}
+.guide_invest h4 p.title_2{color:#666666; height:21px; line-height:21px; text-transform:uppercase;}
+
+.guide_invest .cwh_ul{overflow: hidden;}
+.guide_invest .cwh_ul li{ float:left; margin-right:16px;}
+.guide_invest .cwh_ul li.cur{ margin-right:0;}
+
+.guide_invest dl{}
+.guide_invest dl dd{ padding-top:220px;}
+
+
+
+
+/*免费注册*/
+.guide_register{ height:550px; text-align:center; font-size:20px; color:#666666; position:relative;} 
+.guide_register img{ padding:100px 0 20px 0;}
+.guide_return{ position:absolute; right:-50px; top:-236px; }
+
+
+/*返回头部*/

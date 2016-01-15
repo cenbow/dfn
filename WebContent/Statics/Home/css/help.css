@@ -1,0 +1,36 @@
+body{ background:#F3F8FF;}
+.main{ width:1200px; margin:30px auto; border:1px solid #eee; background:#fff; height:auto;}
+
+
+/*内容显示区域*/
+.content{  border-left:1px solid #eee; height:auto; padding:0 20px; position:relative; margin-left:180px; padding-bottom:30px; min-height:500px;}
+.con_top{ height:75px; font-size:30px; line-height:75px; border-bottom:1px solid #eee;}
+.con_top h1{ float:left; color:#333;}
+.con_top form{ padding-top:20px; margin-left:655px; }
+.con_top form input{ width:300px; height:34px; border:1px solid #eee; border-radius:100px;  line-height:34px; padding-left:20px; float:left; }
+.con_top form a{ display:block; width:18px; height:18px; background:url(../images/search.png) no-repeat; float:left; margin-left:-30px; margin-top:8px;}
+.content dl{ padding:15px 0; color:#666; font-size:16px; line-height:30px;}
+.content dl dt{ font-weight:bold; color:#;}
+
+/*帮助中心页面*/
+.content .search{ height:80px; background:url(../images/search_bg.png) repeat; margin-top:20px;}
+.content .search form input{ width:560px; height:34px; border:1px solid #eee; border-radius:100px; margin-top:23px; margin-left:200px; padding-left:20px; float:left;}
+.content .search form a{ display:block; width:18px; height:18px; background:url(../images/search.png) no-repeat; margin-left:-30px; margin-top:32px; float:left;}
+
+.content .text{ line-height:36px; margin-top:30px; float:left; width:450px; padding-left:20px;}
+.content .text h1{ font-weight:bold; color:#333;}
+.content .text ul{ font-size:14px;}
+
+
+
+.container{width:180px; float:left;}
+.leftsidebar_box{width:180px;height:auto !important;overflow:visible !important;height:100% !important;}
+.leftsidebar_box dt{ font-weight:boldcolor:#666; font-size:14px; line-height:36px; border-bottom:1px solid #eee;cursor:pointer;padding-left:50px; position:relative;}
+.leftsidebar_box  .cjwt{ background:#FF6E6E; height:75px; font-size:18px; font-weight:bold; color:#fff; text-align:center; line-height:75px; margin-bottom:20px;}
+.leftsidebar_box dd{height:37px; margin-top:1px;}
+.leftsidebar_box dd a{ padding-left:60px; display:block; width:120px;color:#666;height:37px; line-height:37px;font-size:14px;}
+.leftsidebar_box dd a:hover{height:35px; line-height:35px; background:#f9f9f9;border-top:1px solid #eee;border-bottom:1px solid #eee;}
+.leftsidebar_box dt img{position:absolute;right:10px;top:16px;}
+.leftsidebar_box dl dd:last-child{margin-bottom:10px;}
+.leftsidebar_box dd.ejku a{height:35px; line-height:35px; background:#f9f9f9;border-top:1px solid #eee;border-bottom:1px solid #eee;}
+

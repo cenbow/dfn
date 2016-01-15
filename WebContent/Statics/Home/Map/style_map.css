@@ -1,0 +1,145 @@
+/*common.css*/
+@charset "utf-8";
+body {
+	font: 12px/1.5 "微软雅黑";
+	color: #666;
+	background: #f8f7f7;
+}
+* html body {
+	/* IE6 fixed box hack */
+	_background-image: url(about:blank);
+	_background-attachment: fixed;
+	padding: 0px;
+	margin: 0px;
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td, a {
+	margin: 0;
+	padding:0;
+	outline: 0;
+
+}
+
+:focus {
+	outline: 0
+}
+address, caption, cite, code, dfn, em, th, var, optgroup {
+	font-style: normal;
+	font-weight: 400
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: 400
+}
+a {
+	text-decoration: none;
+	color: #4f4f4f;
+	transition: 0.2s
+}
+a:hover {
+	/*text-decoration:underline;*/
+	text-decoration : none;
+}
+
+
+
+
+
+
+/*base.css*/
+@charset "utf-8";
+* html body {
+	/* IE6 fixed box hack */
+	_background-image: url(about:blank);
+	_background-attachment: fixed
+}
+/*"Microsoft YaHei","arial","宋体"*/
+body {
+	font: 12px/1.5 "微软雅黑";
+	color: #666;
+	background: #f8f7f7;
+}
+
+
+
+/*  map 网站地图*/
+.map_wrap {
+	background: url(picture/map_all.jpg) no-repeat;
+	width: 994px;
+	margin: 0 auto;
+	overflow: hidden;
+	background-color: #FFF;
+	padding-bottom: 65px;
+}
+.map_wrapcenter {
+	margin-top: 80px;
+	height: 520px;
+}
+.map_wrapcenter_li {
+	background: url(picture/ditu.jpg) no-repeat center center;
+	width: 282px;
+	height: 54px;
+	line-height: 54px;
+	float: left;
+	text-align: center;
+}
+.map_wrapcenter_li a {
+	color: #fff;
+	font-size: 20px;
+}
+.map_wrapcenter_li1 a {
+	color: #fff;
+	font-size: 20px;
+}
+.map_wrapcenter_li1 {
+	background: url(picture/ditu_1.jpg) no-repeat center center;
+	width: 224px;
+	height: 54px;
+	line-height: 54px;
+	text-align: center;
+	float: left;
+}
+.map_wrapcenterp li a {
+	font-size: 16px;
+	display: block;
+}
+.map_wrapcenterp1 a span {
+	color: #79b7e5;
+}
+.map_wrapcenterp {
+	clear: both;
+	width: 984px;
+	overflow: hidden;
+}
+.map_wrapcenterp1 {
+	width: 282px;
+	text-align: center;
+	float: left;
+}
+.map_wrapcenterp2 {
+	width: 224px;
+	text-align: center;
+	float: left;
+}
+.clear_wrapcenterp1 {
+	width: 225px;
+	text-align: center;
+	float: left;
+}
+.map_clear {
+	clear: both;
+	text-align: center;
+	padding-left: 82px;
+}
+.map_clear_left {
+	width: 300px;
+	float: left;
+}
+.map_clear_conter {
+	width: 300px;
+	float: left;
+	padding-top: 100px;
+}
+.map_clear_right {
+	width: 300px;
+	float: left;
+}

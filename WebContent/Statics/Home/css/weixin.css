@@ -1,0 +1,15 @@
+body{ background:#fff;}
+.wx_p{ background:#0868CA; height:720px; text-align:center;}
+.wx_p img{ margin-top:50px;}
+.wx_p h1{ width:100%; height:7px; background:url(../images/weixin/foot1.png) repeat-x; margin-top:63px;}
+
+.wx_p2{width:100%;position:relative;overflow:hidden;height:720px; background:#F1F6FC;}
+.wx_p2 img{ width:1717;position:absolute;left:50%; margin-left:-860px; margin-top:75px;}
+.wx_p2 h1{width:100%; height:7px; background:url(../images/weixin/foot2.png) repeat-x; margin-top:713px;}
+
+.wx_p3{background:#EDCC15; height:700px;}
+.wx_p3 img{ margin-top:70px;}
+.wx_p3 h1{background:url(../images/weixin/foot3.png) repeat-x; margin-top:73px;}
+
+.wx_p4{background:#F0F0F0; height:600px;}
+.wx_p4 img{ margin-top:100px;}

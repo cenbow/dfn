@@ -1,0 +1,378 @@
+.webkit-adjust {
+	-webkit-text-size-adjust: none
+}
+
+.input-error {
+	border-color: #e25353!important
+}
+.input-fucus:focus {
+	border-color: #aaa!important
+}
+.form-style-1 {
+	padding: 15px 0 30px
+}
+.form-style-1-item {
+	float: left;
+	width: 100%;
+	line-height: 30px;
+	margin-top: 15px
+}
+.form-style-1-label {
+	float: left;
+	text-align: right;
+	width: 225px;
+	margin-right: 20px
+}
+
+.form-style-1-value, .form-style-1-value-1, .form-style-2-value {
+	float: left;
+	width: 180px;
+	margin-right: 20px
+}
+
+.form-style-1-other {
+	float: left;
+	width: 100px
+}
+#saftyPageList .yuyin-channel .form-style-1-other {
+	width: 480px;
+	line-height: 20px;
+	margin: 15px 0 13px
+}
+#saftyPageList .yuyin-channel {
+	margin: 0 0 -15px 0
+}
+#saftyPageList .form-style-1-other i {
+	display: none;
+	float: left;
+	font-style: normal
+}
+#saftyPageList .voicech {
+	border: 0;
+	background: 0 0;
+	color: #fe7e00;
+	cursor: pointer;
+	width: auto
+}
+#saftyPageList .voicechdis {
+	color: #666;
+	cursor: default
+}
+.form-style-1-error {
+	float: left;
+	color: #d63838
+}
+.form-style-1-submit, .form-style-2-submit, .form-style-3-submit {
+	float: left;
+	height: 33px;
+	padding-left: 245px;
+	width: 479px;
+	margin-top: 15px
+}
+
+
+.form-style-1 .input-text-style-1 {
+	width: 160px
+}
+.form-style-1 .btn-style-1 {
+	height: 28px
+}
+.form-warm-prompt {
+	background: #fffadc;
+	border-top: 1px solid #e0e0e0;
+	padding: 10px 20px;
+	width: 684px;
+	line-height: 24px;
+	color: #666
+}
+.form-warm-prompt-title {
+	float: left;
+	width: 100%
+}
+
+.form-warm-prompt-1 {
+	background: #fffadc;
+	border: 1px solid #e3b367;
+	padding: 10px 20px;
+	width: 720px;
+	line-height: 24px;
+	color: #666;
+	font-size: 13px
+}
+.form-warm-prompt-1 .form-warm-prompt-title {
+	color: #b73736;
+	font-weight: 700
+}
+.form-warm-prompt-1 .form-warm-prompt-con {
+	float: left;
+	width: 720px
+}
+
+.error-style-1 {
+	clear: left;
+	color: #D63838;
+	float: left;
+	padding: 14px 0 0;
+	text-align: center;
+	width: 300px
+}
+.urgent-paypass label.form-style-1-error, .urgent-paypass span.form-style-1-error {
+	float: none
+}
+
+
+
+
+.ui-widget-content .prompt-form-con a {
+	color: #3181d8
+}
+
+.input-text-style-1, .input-text-style-readonly {
+	background: 0 0;
+	border: 0;
+	background-color: #fff;
+	border: 1px solid #d8d8d8;
+	border-radius: 3px;
+	height: 28px;
+	line-height: 28px;
+	padding: 0 10px
+}
+.input-text-style-1:hover {
+	border: 1px solid #feb67f
+}
+.input-text-style-1:focus {
+	border: 1px solid #fe6e00
+}
+
+.btn-style-1, .btn-style-3 {
+	background: 0 0;
+	border: 0;
+	padding: 0 15px;
+*padding:0 7px;
+	text-align: center;
+	display: block;
+	float: left;
+	height: 24px;
+	color: #fff;
+	line-height: 24px;
+	background: #da4848;
+	font-size: 13px;
+	cursor: pointer
+}
+.btn-style-1:hover, .btn-style-3:hover {
+	text-decoration: none;
+	background: #da4848;
+	color: #fff
+}
+
+.btn-style-3, .btn-style-4 {
+	height: 30px;
+	line-height: 30px;
+	padding: 0 20px;
+*padding:0 8px
+}
+.btn-con-1 {
+	padding-left: 300px;
+	margin-top: 20px
+}
+
+.ui-widget-content a.btn-style-3, .ui-widget-content a.btn-style-1 {
+	color: #fff
+}
+.ui-widget-content a.btn-style-4, .ui-widget-content a.btn-style-2 {
+	color: #666
+}
+.subBtn-style1 {
+	float: left;
+	line-height: 33px;
+	padding-left: 10px;
+	color: #3181D8
+}
+.options-step {
+	height: 48px;
+	position: relative;
+	border-bottom: 5px solid #dadada;
+	font-size: 13px;
+	line-height: 40px
+}
+.options-step-con {
+	width: 535px;
+	margin: 0 auto;
+	height: 48px;
+	_position: absolute;
+	_width: 100%
+}
+.options-step-con span, .options-step-con4 span {
+	float: left;
+	_position: relative;
+	width: 33%;
+	text-align: center;
+	height: 48px
+}
+.options-step-con4 span {
+	width: 25%
+}
+.options-step-con strong, .options-step-con4 strong {
+	display: block;
+	width: 20px;
+	height: 20px;
+	margin: 0 auto;
+	line-height: 20px;
+	color: #fff;
+	font-size: 13px;
+	border-radius: 10px;
+	background: #dadada;
+	_position: absolute;
+	_left: 46%;
+	_bottom: -12px
+}
+.options-step-current {
+	border-bottom: 5px solid #fe6e00;
+	color: #fe6e00
+}
+.options-step-current strong {
+	background: #fe6e00
+}
+
+
+.state-prompt-txt, .state-prompt-txt-duigou, .state-prompt-txt-tanhao, .state-prompt-txt-cuowu {
+	background: url(../img/newUser/tanhaotishi.png) 64px 51px no-repeat;
+	line-height: 24px;
+	padding: 50px 25px 52px 0;
+	padding-left: 135px;
+	color: #999;
+	font-size: 14px
+}
+
+.state-prompt-style {
+	float: left;
+	font-size: 13px
+}
+.state-prompt-style h2 {
+	font-size: 18px;
+	color: #666;
+	margin-bottom: 5px
+}
+.state-prompt-style .state-a-line {
+	color: #3181d8;
+	margin-left: 10px
+}
+.state-prompt-style a {
+	color: #3181d8
+}
+.user-con {
+	width: 819px;
+}
+.user-box {
+	margin-top: 15px;
+	border: 1px solid #e0e0e0;
+	border-radius: 3px
+}
+.user-box-1, .user-box-2 {
+	background: #fff;
+	border: 1px solid #e0e0e0;
+	border-radius: 3px
+}
+.user-box-2 {
+	margin-top: 14px
+}
+.user-box-con {
+	background-color: #fff
+}
+.user-box-con-1 {
+	width: 764px;
+	margin: 0 auto;
+	padding: 30px 0
+}
+
+/*cwh_line*/
+
+.user-box-title {
+	height: 42px;
+	line-height: 42px;
+	border-bottom: 1px solid #e0e0e0
+}
+.user-box-title h2 {
+	float: left;
+	text-indent: 20px;
+	font-size: 15px
+}
+.user-box-title-1 {
+	width: 764px;
+	height: 50px;
+	_overflow: hidden;
+	line-height: 60px;
+	border-bottom: 2px solid #e0e0e0;
+	position: relative;
+	z-index: 0;
+	background-color: #fff;
+	margin: 0 auto
+}
+.user-box-title-1 h2 {
+	font-size: 18px;
+	font-weight: 700;
+	font-family: 'Microsoft Yahei';
+	height: 50px;
+	overflow: hidden;
+	color: #333;
+	float: left;
+	border-bottom: 2px solid gray;
+	z-index: 1
+}
+.user-safety-options {
+	font-size: 14px
+}
+.user-safety-options .user-box-1 {
+	margin-top: 0
+}
+.user-safety-options .user-box-con-1 {
+	padding-top: 0
+}
+.user-safety-options-item {
+	_float: left;
+	width: 764px;
+	line-height: 60px;
+	border-bottom: 1px solid #e0e0e0
+}
+.user-safety-options-show {
+	width: 764px;
+	height: 60px;
+	overflow: hidden
+}
+.user-safety-options-show .icon-check, .user-safety-options-show .icon-tanhao {
+	margin-top: 23px;
+	margin-right: 10px
+}
+.user-safety-options-name {
+	float: left;
+	width: 124px
+}
+.user-safety-options-name strong {
+	float: right;
+	font-weight: 400;
+	width: 97px;
+	text-align: left
+}
+.user-safety-options-value {
+	float: left;
+	width: 540px;
+	_width: 530px
+}
+.user-safety-options-state {
+	float: left;
+	width: 60px;
+	_height: 60px;
+	_overflow: hidden;
+	color: #3181d8;
+	cursor: pointer;
+	text-align: right
+}
+.user-safety-options-state-false {
+	color: #999;
+	cursor: default
+}
+.user-safety-options-edit {
+	position: relative;
+	border: 1px solid #e0e0e0;
+	background: #f5f5f5
+}

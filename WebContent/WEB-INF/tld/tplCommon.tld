@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee
+    web-jsptaglibrary_2_0.xsd"
+    version="2.0">
+    <tlib-version>1.0</tlib-version>
+    <uri>http://www.dfp2p.com</uri>
+    <function>
+        <name>U</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String U(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>SU</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String SU(java.lang.String,java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>compareNumE</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String compareNumE(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>compareNum</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String compareNum(java.lang.String,java.lang.String,java.lang.String,java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>getThumbImgUrl</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String getThumbImgUrl(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>getImgUrl</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String getImgUrl(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>showAdString</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String showAdString(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>defaultValue</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String defaultValue(java.lang.Object,java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>subStr</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String subStr(java.lang.String,java.lang.Integer)</function-signature>
+    </function>
+    <function>
+        <name>intVal</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String intVal(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>date</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String date(java.lang.String,java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>hideCard</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String hideCard(java.lang.String,java.lang.String,java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>getFloatValue</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String getFloatValue(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>H</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.Boolean H(java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>ckbox</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String ckbox(java.lang.String,java.lang.String,java.lang.String)</function-signature>
+    </function>
+    <function>
+        <name>RMB</name>
+        <function-class>com.dfp2p.core.tag.tplCommon</function-class>
+        <function-signature>java.lang.String RMB(java.lang.String,java.lang.String)</function-signature>
+    </function>
+</taglib>

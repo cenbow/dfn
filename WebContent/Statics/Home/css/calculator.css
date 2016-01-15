@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+.calk{background-color:#f3f8ff;padding-bottom: 30px;}
+.calculator_con{ width:1200px; margin:0 auto;}
+.cal_text{background-color:#fff; padding-bottom:1px;}
+.dposi{ width:1200px; height:14px; line-height:14px; margin:0 auto; padding:38px 0 23px; color:#666; font-size:14px;}
+.dposi a{ color:#333;}
+.dposi .dxmxq{ color:#666;}
+.dposi a:hover{ color:#1194d3;}
+
+.jkleft{ width:455px; margin:42px auto 0;}
+.jkleft p{ position:relative; margin-bottom:15px;}
+.jkleft p label{ display: inline-block; width: 98px; height: 18px; line-height:18px; padding: 11px 0; font-size: 18px; vertical-align: middle;}
+.jkleft p .jkname{width:310px; height:40px; padding:0 28px 0 10px; border:1px #eee solid;}
+.jkleft p .jkyuan{ width:16px; font-size:14px; position:absolute; right: 10px;top:0px;}
+.lilvfw{font-size: 14px; color: #999; margin-left: 110px;  margin-bottom: 10px;}
+.calculator_res{ width:1198px; margin:30px auto 0;border:1px #eee solid;background-color:#fff; padding-bottom:30px;}
+.bombbox_table td{line-height:40px;color:#333;font-size:14px;width:111px;text-align:center;}
+.bombbox_table th{line-height:40px;color:#999;font-size:14px;font-weight:bold;width:111px;text-align:center;}
+.bombbox_table .firsttr{border-bottom:none;}
+.bombbox_table tr{border-bottom:1px solid #f5f5f5;}
+#transparentbg {
+    display: none;
+    position: absolute;
+    z-index:99;
+    top: 0px;
+    left: 0px;
+    right:0px;
+    background-color: #777;
+    filter:progid:DXImageTransform.Microsoft.Alpha(style=3,opacity=25,finishOpacity=75)
+    opacity: 0.3;
+}
+.bombbox_ul{padding:35px 30px; text-align:center; font-size:24px;}
+.bombbox_ul span{color:#333333;}
+.bombbox_ul span strong{color:#f3983d;}
+.jkleft .cal_btn{ display:block; width:310px; height:50px; margin:50px auto; line-height:50px; text-align:center; font-size:18px; font-weight:bold; color:#fff;background-color:#0869ca; border-radius:25px;}
+.jkleft .cal_btn:hover{ opacity:0.9;} 
+.fwdy{ height:88px; line-height:88px; padding-left:22px; font-size:30px; color:#333; border-bottom:1px #eee solid;}
+#repayment_type{width:348px; height:40px; padding:0 28px 0 10px; border:1px #eee solid; font-size:16px; font-family:"微软雅黑";    margin-top: 12px;}

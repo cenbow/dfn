@@ -1,0 +1,34 @@
+/* 页面右侧 客服 二维码  */
+.rt_rightMenu { position:fixed; right:3%; bottom:25%; z-index:2000;}
+.rt_submenus { position:relative;}
+.rt_submenus a { display:block;  }
+.rt_kfico { background:url(../images/kf/ico_kfico.png) no-repeat; }
+.rt_codeico { background:url(../images/kf/ico_rzcode.png) no-repeat;}
+.rt_backTop { background:url(../images/kf/ico_backTop.png) no-repeat; cursor:pointer;}
+.rt_kfico,.rt_codeico,.rt_backTop {width:61px; height:58px; margin-top:1px;}
+.rt_hoverkf { border:1px solid #e9e9e9; padding:10px 15px; box-shadow:2px 2px 2px #e9e9e9; background:#fff; width:173px; }
+.rt_kflist { overflow:hidden;}
+.rt_kflist li { border-bottom:1px solid #eee; padding:10px 0; font-size:13px; color:#ababab; line-height:1.6em;}
+.rt_kfspan label { color:#666; position:relative; top:5px;}
+.rt_kfspan span { display:block; margin-top:3px; color:#ababab;}
+.rt_chatico span { display:block; }
+.rt_chatico li { padding:10px 0;}
+.rt_kfID01 label { cursor:pointer;}
+.rt_kfID01:hover label { color:#2cbffc;}
+.rt_kflist a:hover { text-decoration:none!important;}
+.rt_kfID01 { background:url(../images/kf/ico_rzwqq1.png) no-repeat left center; padding-left:48px; cursor:pointer;}
+.rt_kfID02 { background:url(../images/kf/ico_rzwtel.png) no-repeat left center; padding-left:48px;}
+.rt_kfID03 { background:url(../images/kf/ico_rzwemail.png) no-repeat left center; padding-left:48px;}
+.rt_kfID02 b { color:#ff4b42; font-size:14px;}
+.rt_kfQQ { background:url(../images/kf/rt_qqun.png) no-repeat left center; padding-left:25px;}
+.rt_kfsina { background:url(../images/kf/rt_sinaico.png) no-repeat left center; padding-left:25px;}
+.rt_spanweixin { text-align:center; margin-top:10px;}
+.arrow_rtico1,.arrow_rtico2 { display:block; width:25px; height:27px; background:url(../images/kf/kf_arrow.png) no-repeat; position:absolute;right:0;}
+.arrow_rtico1 {height:65px; top:40px;background-position:0 20px;}
+.arrow_rtico2 {height:65px; top:70px;background-position:0 20px;}
+#kf_qqlink,#kf_weibo{ position: absolute; right:53px; width:228px;}
+#kf_qqlink{top:-75px;}
+#kf_weibo{top:-40px;}
+/*计算器*/
+#code,#code:hover{ width:61px; height:58px; margin-top:1px; background:url(../images/kf/ajk-icon.png) no-repeat 0 0;cursor:pointer;}
+#code{bottom:130px; _margin-bottom:130px;}

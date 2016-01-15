@@ -1,0 +1,42 @@
+body{ background:#f5f5f5; min-width:1200px; }
+#fullPage-nav li a { background-color:#c0e1ff;}
+#fullPage-nav li .active { background-color:#1560b0;}
+
+.header{ height:80px; border-bottom:1px solid #eee; padding:0 30px; line-height:80px; font-size:14px;}
+.header img{margin-top:20px; float:left;}
+.header ul{ float:right;}
+.header ul li{ float:left; margin-left:40px;}
+
+/*page1*/
+.main_p1{ width:1200px; margin:80px auto 0;}
+.con_p1{ width:650px;height:500px; margin:0 auto;}
+.con_p1 h1{ font-size:36px; text-align:center; margin-top:-50px; }
+.con_p1 h2{ color:#666; font-size:18px; padding-left:70px; line-height:50px;}
+.con_p1 a{ display:block; width:426px; height:56px; background:#DBE8FC; color:#1e46ad; border-radius:100px; font-size:24px; text-align:center; line-height:56px; margin-left:110px; margin-top:40px;}
+.con_p1 a:hover{ background:#e6f1ff;}
+
+/*page2*/
+.headpic_p2{ width:900px; margin:0 auto; text-align:center; margin-top:30px; border-bottom:1px solid #eee; height:170px;}
+.headpic_p2 h1{ position:absolute; background:#f5f5f5; width:240px; margin-top:20px; margin-left:330px; font-size:18px;}
+.text_p2{ margin:0 auto; margin-top:50px; line-height:30px; color:#666; height:380px; overflow:scroll; width:760px;}
+
+/*page3*/
+.headpic_p3{ margin-top:67px; text-align:center;}
+.text_p3{ width:810px; margin:0 auto; margin-top:40px; color:#333;}
+.text_p3 ul{ margin-left:20px; line-height:40px;}
+.text_p3 ul li{ float:left; width:260px; height:20px; line-height:20px; margin-bottom:10px;}
+.text_p3 ul li img{ vertical-align:bottom;}
+
+/* 招聘职位 */
+.job{ width:960px; margin:0 auto;}
+.jobxl{ width:150px; border:1px solid #9ecefb; font-size:14px; line-height:48px; border-radius:10px; height:480px; background:#fff; float:left; position:relative;}
+.jobxl ul{ margin-top:20px; padding-left:20px;color:#333;}
+.jobxl  ul li{ cursor:pointer; margin-top:3px;}
+.jobxl  ul li:hover{ color:#1194d3;}
+.jobxl  ul li img{ position:absolute; margin-left:74px; margin-top:15px;}
+.job_jkk{ float:left; height:420px; width:750px; margin-left:55px;}
+.job_jkk h1{ font-size:30px;}
+.job_jkk a{ display: inline-block; width:70px; height:30px; background:#0869CA; color:#fff; border-radius:100px; text-align:center; line-height:30px;  margin-top:7px; margin-left:20px;}
+.job_jkk a:hover{background:#2178CF;}
+.job_jkk p{ width:750px; font-size:16px; color:#666; line-height:30px; margin-top:20px; height:420px; overflow:scroll;}
+.thistab{ background:url(../images/arrow_j.png) 110px center no-repeat; color:#1194d3; font-weight:bold;}

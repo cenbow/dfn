@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* login */
+.logink{ background-color:#f3f8ff; padding:57px 0 67px;}
+.login{ width:1198px; border:1px #eee solid; margin:0 auto;background-color:#fff; padding:28px 0;}
+.centerleft{width:555px;height:355px;float:left; background:url(../imgs/denglu1.png) 0 0 no-repeat; position:relative; margin-left:62px;_margin-left:31px;}
+.centerleft .hdxq{ display:block; width:91px; height:14px; line-height:14px; font-size:14px; color:#380505; font-weight:bold; position:absolute; right:93px; bottom:89px;}
+.centerleft .hdxq:hover{ color:#1194d3;}
+.centerright{width:315px;float:right;margin-right:120px; _margin-right:60px; padding-top:32px;}
+.dlzc{ margin-bottom:24px;}
+.dlzc .registertitle{font-size:18px; color:#666; margin-right:147px;}
+.logintitle{font-size:14px; color:#666;}
+.logintitle a{font-size:14px; color:#ff9c01;}
+.logintitle a:hover{font-size:14px; color:#1194d3;}
+.login-item{ margin-bottom:21px; position:relative;}
+.login-item .textbox{ width:297px; height:16px; line-height:16px; font-family:"微软雅黑";font-size:14px; color:#999; border: 1px solid #eee; padding: 12px 0 12px 15px;}
+.submit{ width:310px; height:50px; line-height:50px; margin-top:15px; border: 0; border-radius: 25px;font-family: "Microsoft YaHei","Helvetica Neue"; font-size: 18px; font-weight:bold; color: #FFF; background:#0869ca; cursor: pointer;transition:background-color 0.3s;-moz-transition:background-color 0.3s; -webkit-transition:background-color 0.3s; -o-transition:background-color 0.3s;}
+.submit:hover{ background:#1C5FA2;}
+.right_content{ height:30px;line-height:30px;border:0px;margin-top:15px;}
+.ui-form-item {width:310px; margin-top:20px;font-size:14px; color:#999;}
+.ui-form-item a{color:#ff9c01;}
+.ui-form-item a:hover{color:#1194d3;}
+.ui-select { display: inline-block; _display: inline; _zoom: 1; padding: 4px; cursor: pointer; margin-top: 2px; vertical-align: middle; padding-right: 5px;}
+.rememberme{ cursor:default;}
+.findpsw { display:block; float:right;}
+.login-item  .placeholder{ position: absolute; top: 10px; left: 12px; font-size: 14px; color: #ababab;}

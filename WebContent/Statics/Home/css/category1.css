@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* 公司简介 */
+.topimg{width:100%;position:relative;overflow:hidden;height:366px;}
+.topimg img{ width:2000px;position:absolute;left:50%; margin-left:-1000px;}
+.xmxqbottom{ padding-bottom:42px;}
+.gsjjk{border-bottom:1px solid #eee;}
+.b_xxk{ width:1200px; margin:0 auto;}
+.b_xxk li{float:left;width:130px;height:53px; margin-left:48px; _margin-left:48px;line-height:53px; font-size:18px; color:#666; text-align:center; cursor:pointer;}
+.b_xxk li.gsjjmar{ margin-left:0;}
+.b_xxk li:hover,.b_xxk li.thistab{height:51px;line-height:51px; border-bottom:2px #ffc001 solid;}
+.b_jkk{ width:1200px; margin:0 auto;}
+.gsjianjie_1_left{ width:724px; float:left; margin:42px 0 0 22px;}
+.gsjianjie_1_right{ float:left;width:390px; margin-left:35px;}
+.gsjianjie_1_left_1{ margin-bottom:40px;}
+.gsjianjie_1_left_p{ height:24px; line-height:24px; font-size:24px; color:#333;border-left:6px solid #ffc001; padding:0 0 0 8px; margin-bottom:15px;}
+.gsjianjie_1_left_p2{ text-indent:32px; font-size:16px; color:#666; line-height:30px; text-align:justify;}
+.gsjianjie_1_right{ margin-top:75px;}
+
+/* 管理团队 */
+.gsjianjie{ width:1200px; margin:42px auto 0;}
+.lindao{margin-bottom:66px;}
+.lindao li{ float:left;}
+.lindao .lindao_li1{ width:165px; margin-right:15px; _margin-right:15px;}
+.lindao .lindao_li2{ width:965px;color:#333; padding-top:10px;}
+.lindao_li2 .lindao_li2_p{ font-size:30px; font-weight:normal;_height:30px; _overflow:hidden; line-height:31px; _line-height:30px; width:965px; border-bottom:1px #ccc dashed; padding-bottom:21px; margin-bottom:14px;}
+.lindao_li2_p span{ width:200px; height:18px; _height:18px; padding-top:12px;font-size:18px; color:#333; text-align:right;float:right;} 
+.lindao .lindao_li2 p{ font-size:16px; line-height:30px; color:#666; text-align:justify;word-break : normal;}
+
+/* 官方公告 */
+.not_main{ width:1200px; margin:50px auto; overflow:auto; height:auto;}
+.not_content{ width:710px; float:left;}
+.not_content dl dt{ font-size:30px; color:#333; line-height:60px; text-align:center;}
+.not_content dl .c_date{ display:block; font-size:14px; color:#999; width:710px;height:30px; line-height:30px; border-bottom:1px solid #eee; text-align:right; padding-bottom:15px;}
+.not_content dl dd{ font-size:16px;line-height:30px; padding:20px 0; color:#333; }
+.not_content dl dd h3{ font-size:16px; font-weight:bold;}
+.not_sider{ width:405px; padding:0 20px 20px 20px; float:left; border:1px solid #eee; margin-left:40px;}
+.not_sider h1{ font-size:30px; border-bottom:1px solid #eee; line-height:80px;}
+.not_sider ul li{ font-size:14px; line-height:48px; border-bottom:1px dashed #eee; height:48px;}
+.not_sider ul li a{ display:block; overflow: hidden; width:300px;text-overflow:ellipsis;white-space:nowrap;}
+.not_sider ul li span{ float:right;}
+
+.ifenye{ width:370px; margin:0 auto; padding:37px 0 20px; font-size:14px;}
+.ifenye a{ display: block; padding:3px 8px; float:left; border:1px #eee solid; margin:0 5px; _margin:0 5px; background-color:#FFF;-moz-border-radius: 5px;  -webkit-border-radius: 5px;border-radius:5px;color:#666;}
+.ifenye a:hover{background-color:#ff9c01; color:#fff; }
+.ifenye span{ display: block; padding:3px 8px; float:left; color:#666; border:1px #eee solid; margin:0 5px; _margin:0 5px; background-color:#FFF;-moz-border-radius: 5px;  -webkit-border-radius: 5px;border-radius:5px;}
+.ifenye .isj{ color:#ccc;}
+.ifenye .ifocus{ color:#fff; background-color:#ff9c01;}
+.ifenye .islx{ border: none; background-color:#f3f8ff;}
+
+/* 合作伙伴 */
+.hezuo{ width:1128px; margin:50px auto 0; border-bottom:1px #eee dashed; padding: 0 0 60px 72px;}
+.hezuo ul li{ float:left;}
+.hezuo ul .hezuo_li2{ width:848px; line-height:30px; margin-left:83px; text-align: justify;}
+.hezuo ul .hezuo_li2 p{ font-size:16px;color:#666;}
+.hezuo ul .hezuo_li2 p.hezuo_li2_p{color:#333; font-size:24px;height:30px; line-height:30px;margin-top:10px; margin-bottom:10px;}
+/* 联系我们 */
+.contact{ width:825px; margin:0 auto;}
+.address{ border-bottom:1px #ccc dashed; margin-top:60px; _margin-top:60px; padding-bottom:55px;}
+.address img{ float:right; margin-top:20px; _margin-top:10px;}
+.dzxx{ display:block; float:left; width:570px; font-size:16px; color:#333; line-height:36px;}
+.dzxx h3{font-size:16px; color:#333; font-weight:bold;}
+.dzfgs{ float:right; width:500px;padding-top:80px;}
+.addrfgs img{ float:left}
+.fl{ float:left; width:500px;padding-top:80px;}
+.kfzx{ margin-top:60px; _margin-top:60px; padding-bottom:55px;font-size:16px; color:#333; line-height:36px;}
+.kfzx h3{font-size:16px; color:#333; font-weight:bold;}
+
+#artcontent{overflow:hidden}
+

@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* 投标记录 */
+.b_tbjl{ padding:54px 40px 0; width:1120px; margin:0 auto; border:1px #eee solid;}
+.b_tbjlbt dt,.b_tbjlsj dd{ font-size:14px; width:25%; float:left; height:50px; line-height:50px;}
+.b_tbjlsj{ border-bottom:1px #eee dashed;}
+.b_tbjlbt dt{ color:#999;}
+.b_tbjlsj dd{ color:#666;}
+.b_bzfstb{ margin-top:9px;}
+.b_tbjlbt .b_tbfs{ width:20%; padding-left:18px;}
+.ifenye{ width:370px; margin:0 auto; padding:37px 0 56px; font-size:14px;}
+.ifenye a{ display: block; padding:3px 8px; float:left; border:1px #eee solid; margin:0 5px; _margin:0 5px; background-color:#FFF;-moz-border-radius: 5px;  -webkit-border-radius: 5px;border-radius:5px;color:#666;}
+.ifenye a:hover{background-color:#ff9c01; color:#fff; }
+.ifenye span{ display: block; padding:3px 8px; float:left; color:#666; border:1px #eee solid; margin:0 5px; _margin:0 5px; background-color:#FFF;-moz-border-radius: 5px;  -webkit-border-radius: 5px;border-radius:5px;}
+.ifenye .isj{ color:#ccc;}
+.ifenye .ifocus{ color:#fff; background-color:#ff9c01;}
+.ifenye .islx{ border: none; background-color:none;}
+
+
+
+
+
+
+
+
+.xiaoguouldiv li{list-style:none;float:left;width:260px; color:#666;}
+.xiaoguouldiv{width:1124px;height:45px;margin-left:20px;margin-top:5px;border-bottom:1px dotted #ccc;}
+.xiayiye{width:1200px;height:40px;padding-top:30px;padding-left:450px;}
+.xiayiye li{list-style:none;margin-right:10px;float:left;height:24px;width:33px;border:1px solid #CCCCCC;text-align:center;}
+.xmxq_odiv1_2_ul{ list-style:none; width:450px; color:#666666; margin-bottom:30px; height:40px;}
+.xmxq_odiv1_2_ul li{ float:left; height:40px; margin-right:30px;width:160px; text-align:center; line-height:2.5em;
+
+

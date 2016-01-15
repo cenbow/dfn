@@ -1,0 +1,221 @@
+@charset "utf-8";
+/* 项目详情01 */
+.bid{ background-color:#f3f8ff;}
+.dposi{ width:1200px; height:14px; line-height:14px; margin:0 auto; padding:38px 0 23px; color:#666; font-size:14px;}
+.dposi a{ color:#333;}
+.dposi .dxmxq{ color:#666;}
+.dposi a:hover{ color:#1194d3;}
+.dxq{width:1200px; margin:0 auto;}
+.fwdyk{ background-color:#FFF; border:1px #eee solid; margin-bottom:102px;}
+.fwdy{ height:88px; line-height:88px; padding-left:22px; font-size:30px; color:#333; border-bottom:1px #eee solid;}
+.xmxq_odiv1_1{width:735px;float:left; padding:0 40px 27px; border-right:1px #eee solid;}
+.xmxq_odiv1_2{width:315px;float:left;margin-left:46px; font-size:14px; color:#666;}
+.xmxq_odiv1_12{ border-bottom:1px #ccc dashed;padding:32px 0 15px}
+.b_xbt,.b_xsdata{ display:block; width:735px;}
+.bonone{border-bottom: none;}
+.b_xbt li{ float:left; height:28px; line-height:28px; font-size:14px; color:#666;}
+.b_xsdata li{ float:left; height:60px; line-height:60px; font-size:30px; color:#333;}
+.b_jkje{ width:280px;}
+.b_hkfs{ margin:3px 0 29px;}
+.b_hkfs li{ float:left; height:48px; line-height:48px; font-size:24px; color:#333;}
+.b_tongji{ font-size:16px; color:#666;}
+.b_tongji li{ height:32px; line-height:32px; font-size:16px; color:#666;}
+.b_tongji li.b_jindut{  height:21px; padding-top:11px;}
+.progress_box{width:582px; height:10px; background: #e0e0e0;-moz-border-radius: 25px; -webkit-border-radius: 25px;border-radius:25px;}
+.progress_ing{width:30%; height:10px; overflow:hidden; background: #ffc001;-moz-border-radius: 25px; -webkit-border-radius: 25px;border-radius:25px;}
+
+.b_kt{ height:62px; line-height:62px; margin-top:16px;}
+.b_kt font{ font-size:24px; color:#333; font-weight:bold; padding:0 10px;}
+.b_zhye{ height:38px; padding-top:18px; margin-bottom:24px;}
+.b_ye{ display:block; float:left; margin-top:3px; _margin-top:3px;}
+.b_ye font{ font-size:18px; color:#333; font-weight:bold; padding:0 10px;}
+.b_zhye .b_cz{width:60px; height:14px; line-height:14px; padding:7px 0 9px; float:left; margin-left:76px;  font-size:14px; color:#fff; text-align:center; background-color:#ff9c01;transition: background-color 0.3s; -moz-transition: background-color 0.3s; -webkit-transition: background-color 0.3s; -o-transition: background-color 0.3s; -moz-border-radius: 25px; -webkit-border-radius: 25px;border-radius:25px;}
+.b_zhye .b_cz:hover{ color:#fff; background-color:#ffa61a;}
+.b_qtk{width: 246px; padding:0 15px; font:14px; border: 1px solid #eee;}
+.b_qt{ width: 232px; _width: 224px; height: 22px; _height: 18px; margin:10px 0; font-family:"微软雅黑"; font-size:14px; line-height:22px;color:#ccc; outline: none; border:0;}
+.b_yuan{ display:block; color:#999; height: 42px; line-height:42px;
+ float:right;}
+.b_wcsy{ height:28px; line-height:28px; color:#999;}
+.b_wcsy font{ color:#ff9c01; padding:0 5px;}
+.xmxq_odiv1_2 .li_imgs{width:278px; margin:28px 0 23px; display:block; height:50px; line-height:50px; background-color:#2572c0; font-size:18px; color:#fff;font-weight:bold; text-align:center; transition:background-color 0.3s;-moz-transition:background-color 0.3s; -webkit-transition:background-color 0.3s; -o-transition:background-color 0.3s;-moz-border-radius: 25px;  -webkit-border-radius: 25px;border-radius:25px;  }
+.xmxq_odiv1_2 .li_imgs:hover{ background-color:#1C5FA2;}
+.uls li{height:25px; padding:0 10px 0 23px; float:left; line-height:25px; background:url(../imgs/xiangm6_06.jpg) 0 center no-repeat;}
+/* 项目信息 */
+.xmxqbottom{ padding-bottom:42px; position:relative;}
+.b_xxk{ width:564px;border-right:1px solid #eee; position:absolute; top:-61px;}
+.b_xxk li{float:left;width:140px;height:60px;line-height:60px; font-size:16px; color:#333; border:1px solid #eee;  border-right:0;text-align:center; cursor:pointer; background-color:#f9f9f9;}
+.b_xxk li:hover,.b_xxk li.thistab{ background-color:#fff;height:59px;line-height:59px; border-top:2px solid #ff9c01;border-bottom:1px solid #fff;}
+
+.b_jkk{ padding:0 0 44px 30px; border:1px solid #eee; background-color:#fff;}
+.jkrxinxi{font-size:18px; margin:0; padding:54px 0 0; font-weight:bold;color:#666;}
+.b_jkr{ float:left;}
+.b_hxian{ float:left; width:999px; height:16px; margin-left:18px; _margin-left:18px; border-bottom:1px solid  #eee; position:relative; }
+.b_hqdcfx{ width:962px;}
+.b_jkrxx{ width:982px;}
+.b_hyuan{ width:10px; height:10px; background-color:#eee;-moz-border-radius: 10px; -webkit-border-radius: 10px;border-radius:10px; position:absolute; right:-10px; bottom:-5px;}
+.jkrxinxi1{ height:40px; line-height:40px; font-size:16px; color:#666; margin-top:14px;}
+.jkrxinxi1 span{margin-right:48px;}
+.jkrxinxi1 span font{ margin:0; padding:0; color:#999;}
+.jk_img{width:735px; height:123px; margin-top:12px; padding-top:17px; border:1px #f3f8ff solid; border-radius:5px;}
+.jk_img li{ width:115px; float:left; margin-right:9px; _margin-right:9px;text-align:center; font-size:14px; font-weight:bold; color:#0869ca}
+.jk_img li img{ margin:0 auto 12px; _margin:0 auto 12px;}
+li.jk_larz{ margin-right:0;}
+.b_jktext{ width:1050px; font-size:16px; color:#666; line-height:30px; margin-top:17px;}
+
+/*相册*/
+#picarea {	MARGIN: 0px auto; WIDTH: 1020px; BACKGROUND: #fff;}
+#smallpicarea { margin: 0px auto; WIDTH: 958px; padding-top: 80px}
+#thumbs { width:680px; margin:0 auto;padding-bottom:30px;}
+#thumbs ul{ height:73px;}
+#thumbs LI {margin: 0px 5px;_margin: 0px 5px; float:left;}
+#thumbs LI.last_img { margin-right: 4px;}
+#thumbs LI.first { margin:15px 17px 0 0; _margin:15px 17px 0 0; width: 44px; height: 43px; cursor: pointer;}
+#thumbs LI.last { margin:15px 0 0 17px; _margin-left:15px 0 0 17px; width: 44px; height: 43px; cursor: pointer;}
+#thumbs LI a { float:left;border:5px #fff solid; border-radius:10px;width:90px; height:66px;}
+#thumbs LI a img{ border-radius:10px;width:90px; height:66px;}
+#thumbs LI a:hover { border:5px #e6f0fe solid; border-radius:10px;}
+#thumbs LI a.current { border:5px #e6f0fe solid; border-radius:10px;}
+.pabag{background:url(../images/xsjiao.png) center bottom no-repeat;}
+.slideshowItem{ padding-bottom:10px;}
+.slideshowItem a img{ width:90px;}
+#bigpicarea { position:relative; margin: 0px auto; width:1020px; height:560px; overflow:hidden;}
+.image { height:560px; text-align: center;}
+.image img { width:710px; height:520px; border: #ccc 1px solid;border-radius:10px;}
+#bigpicarea .word { margin: 25px 0 50px; text-align:center; height:16px; line-height:16px;COLOR: #333}
+#bigpicarea img { width:710px; height:510px;}
+#bigpicarea .word H3 {text-align:center; color: #666; font-size: 16px;}
+#bigpicarea .ui-els-hide {	DISPLAY: none;}
+#big_play_prev { position:absolute;top: 186px; cursor: pointer; left:0; width:75px; height:149px; display:block; background-image: url(../images/leftbig.png);}
+#big_play_next { position:absolute;top: 186px; cursor: pointer; right:0; width:75px; height:149px; display:block; background-image: url(../images/rightbig.png);}
+/*相册 end*/
+/* 投标记录 */
+.b_tbjl{ padding:54px 40px 0 10px;}
+.b_tbjlbt dt,.b_tbjlsj dd{ font-size:14px; width:24%; float:left; height:50px; line-height:50px; padding-left:8px;}
+.b_tbjlsj{ border-bottom:1px #eee dashed;}
+.b_tbjlbt dt{ color:#999;}
+.b_tbjlsj dd{ color:#666;}
+.b_bzfstb{ margin-top:9px;}
+.b_tbjlbt .b_tbfs{ width:20%; padding-left:18px;}
+.ifenye{ width:370px; margin:0 auto; padding:37px 0 13px; font-size:14px;}
+.ifenye a{ display: block; padding:3px 8px; float:left; border:1px #eee solid; margin:0 5px; _margin:0 5px; background-color:#FFF;-moz-border-radius: 5px;  -webkit-border-radius: 5px;border-radius:5px;color:#666;}
+.ifenye a:hover{background-color:#ff9c01; color:#fff; }
+.ifenye span{ display: block; padding:3px 8px; float:left; color:#666; border:1px #eee solid; margin:0 5px; _margin:0 5px; background-color:#FFF;-moz-border-radius: 5px;  -webkit-border-radius: 5px;border-radius:5px;}
+.ifenye .isj{ color:#ccc;}
+.ifenye .ifocus{ color:#fff; background-color:#ff9c01;}
+.ifenye .islx{ border: none; background-color:none;}
+/* 待还计划 */
+.b_dhuan{ padding-bottom:60px;}
+.b_daih{ vertical-align: middle; margin-right:5px;}
+
+/*弹出层*/
+.ajaxDivInvest-con {
+	padding-top: 0px;
+	width: 619px
+}
+.text-red {
+	color: #cc3300
+}
+.mar20 {
+	margin: 20px 0px
+}
+INPUT.btn-action {
+	border-bottom: #cc0000 0px solid;
+	text-align: center;
+	border-left: #cc0000 0px solid;
+	line-height: 30px;
+	width: 80px;
+	display: inline-block;
+	background: url(../bg/btn-red.jpg) #cc0000 0px 0px;
+	height: 30px;
+	color: #fff;
+	border-top: #cc0000 0px solid;
+	border-right: #cc0000 0px solid
+}
+.ajaxDivInvest {
+	border-bottom: #d5d5d5 1px solid;
+	border-left: #d5d5d5 1px solid;
+	background-color: #fff;
+	margin: 20px auto;
+	width: 700px;
+	height: 310px;
+	border-top: #d5d5d5 1px solid;
+	border-right: #d5d5d5 1px solid
+}
+.ajaxDivInvest-l {
+	border-bottom: #e5e5e5 0px solid;
+	border-left: #e5e5e5 0px solid;
+	background-color: #F3F6FB;
+	width: 198px;
+	float: left;
+	height: 290px;
+	border-top: #e5e5e5 0px solid;
+	border-right: #e5e5e5 1px solid;
+	padding-top: 10px
+}
+.ajaxDivInvest-l UL LI {
+	line-height: 30px;
+	padding-left: 20px;
+	height: 30px
+}
+.ajaxDivInvest-l UL LI STRONG {
+	color: #ff0000;
+	font-size: 14px
+}
+.ajaxDivInvest-r {
+	padding-left: 20px;
+	width: 400px;
+	float: right;
+	padding-top: 10px
+}
+.ajaxDivInvest-r UL LI {
+	line-height: 30px;
+	height: 30px
+}
+.ajaxDivInvest-r UL LI A {
+	color: #c30;
+	margin-left: 30px
+}
+.invest_input {
+	border: 1px solid #CCC;
+	padding: 3px
+}
+.wytbiao.repayment {
+	background: url(../images/repayment.gif) no-repeat;
+}
+.wytbiao.recheck {
+	background: url(../images/recheck.gif) no-repeat;
+}
+.wytbiao.done {
+	background: url(../images/done.gif) no-repeat;
+}
+.wytbiao.fail {
+	background: url(../images/fail.gif) no-repeat;
+}
+.investCornerTip {
+	position: absolute;
+	left: -12px;
+	top: -12px;
+	width: 90px;
+	height: 88px;
+	z-index: 100000;
+}
+.investCornerTip.borrow_type_1 {
+	background: url(../images/credits_left.gif) no-repeat;
+}
+.investCornerTip.borrow_type_2 {
+	background: url(../images/second_left.gif) no-repeat;
+}
+.investCornerTip.borrow_type_3 {
+	background: url(../images/second_left.gif) no-repeat;
+}
+.investCornerTip.borrow_type_4 {
+	background: url(../images/net_left.gif) no-repeat;
+}
+.investCornerTip.borrow_type_5 {
+	background: url(../images/mortgage_left.gif) no-repeat;
+}
+.investCornerTip.transfer {
+	background: url(../images/transfercorner.gif) no-repeat;
+	top: -11px
+}
+

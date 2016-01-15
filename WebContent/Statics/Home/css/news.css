@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* 新闻格式 */
+h3,p{ margin:0; padding:0;}
+.news h4{ font-family: Arial, Helvetica, sans-serif; font-size:12px; line-height:30px; text-indent:24px; font-weight:normal;}
+.news p{font-size:15px; line-height:30px; text-indent:30px;}
+.news h2{ font-size:16px; line-height:30px; text-indent:32px; font-weight:bold;}

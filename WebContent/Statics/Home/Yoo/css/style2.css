@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 微软雅黑;
+}
+a{
+    text-decoration:none;
+}
+.banner{
+    background: url('../img/YOO_banner.png') center;height: 350px;text-align: center
+}
+.navbar{
+    min-width: 1200px;
+}
+.mt15{
+    margin: 15px 0;
+}
+main{
+    min-width: 1200px;
+}
+.main_body{
+    clear: both;
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 75px;
+}
+.span12{
+    width: 100%;
+    min-width: 1200px;
+}
+
+.span5 {
+    width: 41.66666667%;
+}
+.span5, .span12{
+    float:left;
+}
+.text-center{
+    text-align: center;
+}
+.ry_title{
+    padding-left: 10px;
+    border-left: solid 7px;color:#91e1e0;
+    font-size: 30px;
+    padding-top: 15px
+}
+.ry_yoo{
+    margin-top: 105px;text-indent: 2em;line-height: 35px;width:400px;padding: 0 50px;font-size: 18px;color: #a3a1a2;float: left;
+}
+.ry_join{
+    margin-top: 60px;text-align: center;margin-bottom: 100px;
+}
+.ry_h{
+    float: right;margin-top: 15px;
+}
+.ry_td{
+    clear:both;padding:70px 0;text-align: center;
+}

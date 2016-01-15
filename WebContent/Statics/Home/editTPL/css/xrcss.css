@@ -1,0 +1,38 @@
+﻿.pl55{padding-left:55px;}
+.xr_box{width:1000px; background:#fff;}
+.xrclear{clear:both; overflow:hidden;}
+h3.xrh3{font-size:18px; color:#979797; font-weight:normal; margin-top:30px; position:relative;}
+.xryh{width:800px; margin-top:10px; overflow:hidden;}
+.xryh li{padding-left:20px; width:220px; float:left; display:inline; font-size:15px; color:#999; line-height:42px; height:42px;}
+.xrrz{width: 865px;margin:22px 0 0 100px;}
+.xrrz td{font-size: 14px;color:#979797;height: 42px;width: 33.33%}
+.xrrz div{margin-left: 10px;width: 350px;border-bottom: dashed 1px #dadada;display: inline-block;text-align: center;}
+.xrrz_ip{width:865px; margin-left:26px; position:relative; min-height:33px;}
+.xrrz_ip img{position: absolute;bottom:-50px;left: 160px;}
+.rzud,.fkud,.msud{width:20px; height:12px; position:absolute; top:10px; right:10px; z-index:9; overflow:hidden; background:url(../images/xrup.jpg) no-repeat; cursor:pointer; display:block}
+.fkud,.msud{left:80px;top:7px;}
+.rzbg{ background-image:url(../images/xrdown.jpg);}
+.xrrz_ip input{ width:100%; border:0; border-bottom:1px solid #dadada; height:33px; line-height:33px;background:transparent;}
+b.xrbt{clear:both; display:block;color:#5b595a; font-size:16px; margin:22px 0 0 26px; font-weight:normal; position:relative; height:24px; line-height:24px;}
+p.xrp,.xrbzcs{color:#989898; font-size:15px; line-height:28px;padding-left:26px; margin:15px 0; overflow:hidden;}
+.xrbzcs li{clear:both;}
+.xrbzcs li span{float:left; display:block;}
+.dyzj{width:78px; text-align:center; border:0; border-bottom:1px solid #9f9f9f; text-align:center; font-size:15px; color:#989898}
+.xrdysm{width:800px; padding:0 0 0 26px; overflow:hidden;}
+.xrdysm li{height:40px;width:400px; float:left; display:inline; line-height:40px; color:#989898; font-size:15px}
+.xrdysm li input{width:268px; border:0; border-bottom:1px dashed #d6d4d5; text-align:center; color:#989898; font-size:15px;background:transparent;}
+.hklyb{padding-left:26px; line-height:30px;margin-top: 15px}
+.hklyb span{float:left; display:block; font-size:15px; color:#989898;}
+input.xrtxt{ border:0; background:#fff; width:100%;color:#989898; font-size:15px;}
+.xrp textarea{ width:100%; border:0;color:#989898; font-size:15px; resize:none; line-height:26px; background:transparent; overflow:hidden;}
+.xrud5{left:100px}
+.xr-enable, .xr-disable{display:block;text-align:center}
+.xr-disable.selected ,.xr-enable.selected{ display:none; }
+.switch label{cursor:pointer;}
+.xrdno{display:none}
+.switch img{ cursor:pointer}
+.rzbg1{ background-image:url(../images/xrdown.jpg); left:0px;}
+.mt0,b.mt0{margin-top:0;padding-top:0}
+p.mb0{margin-bottom:0;padding-bottom:0}
+.tu{width: 40%;float: left;margin: 15px 0;text-align: center;}
+.zi{width: 60%;float: left;color: #989898;font-size: 15px;line-height: 28px;margin: 15px 0;overflow: hidden;text-indent: 2em;}

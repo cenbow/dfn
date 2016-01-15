@@ -1,0 +1,61 @@
+<%@ page language="java" contentType="text/html; charset=utf-8"	pageEncoding="utf-8"%>
+</div>
+<!-- footer start -->
+<!--底部-->
+<div class="newsb2index_bottom">
+   <div class="newsb2index_px1000">
+   
+      <div class="newsb2index_fl newsb2index_bottom_menu">
+         <ul class="newsb2index_fl"><li><a href="http://www.rongsheng360.com/category/index.do?id=387">关于我们</a></li><li><a href="http://www.rongsheng360.com/invest/index.do">我要赚钱</a></li><li><a href="http://www.rongsheng360.com/loan/index.do">我要借款</a></li><li><a href="http://www.rongsheng360.com/category/index.do?id=425">媒体报道</a></li><li><a href="http://www.rongsheng360.com/safe/index.do">安全保障</a></li></ul>
+         <ul class="newsb2index_fl"><li><a href="http://www.rongsheng360.com/category/index.do?id=485">网站地图</a></li><li><a href="http://www.rongsheng360.com/category/index.do?id=485">联系我们</a></li><li><a href="http://www.rongsheng360.com/guide/index.do">新手指引</a></li><li><a href="http://www.rongsheng360.com/category/index.do?id=388">加入我们</a></li></ul>
+      </div>
+      
+      <div class="newsb2index_fl newsb2index_bottom_cadr">
+         <ul>
+            <li><img src="${HomeStatics}/new/images/bottom_pic_2.gif" /><p><img src="${HomeStatics}/new/images/bottom_pic_6.gif" /><a href="#">敬请期待</a></p></li>
+            <li><img src="${HomeStatics}/new/images/bottom_pic_2.gif" /><p><img src="${HomeStatics}/new/images/bottom_pic_7.gif" /><a href="#">安卓下载</a></p></li>
+            <li><img src="${HomeStatics}/new/images/bottom_pic_2.gif" /><p><img src="${HomeStatics}/new/images/bottom_pic_8.gif" />微信关注</p></li>
+         </ul>
+      </div>
+      
+      <div class="newsb2index_bottom_kefu">
+         <p><img src="${HomeStatics}/new/images/bottom_pic_1.gif" /></p>
+         <p class="newsb2index_number">400-8636-360</p>
+         <p class="newsb2index_time">服务时间：9：00 - 21：00</p>
+         <p class="newsb2index_fl"><a href="http://weibo.com/u/5608204548"><img src="${HomeStatics}/new/images/bottom_pic_5.gif" /></a></p><p class="newsb2index_fl"><a href="#"><img src="${HomeStatics}/new/images/bottom_pic_3.gif" /></a></p><p class="newsb2index_fl"><a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&key=XzkzODAxMDUzOV8yODc2MDZfNDAwODYzNjM2MF8yXw"><img src="${HomeStatics}/new/images/bottom_pic_4.gif" /></a></p>
+      </div>
+   </div>
+</div>
+
+<!--友情链接-->
+<div class="newsb2index_bottom_link">
+   <ul class="newsb2index_px1000">
+      <li>友情连接&nbsp;<img src="${HomeStatics}/new/images/bottom_pic_9.gif" /></li>
+      <li><a href="http://www.zgsszz.com/index.html" target="_black">实实在在</a></li>
+     <li><a href="http://www.fh01.com" target="_black">逸马国际</a></li>
+     <li><a href="http://www.xhjm.hk" target="_black">祥和嘉茂</a></li>
+     <li><a href="http://www.csai.cn" target="_black">希财网</a></li>
+     <li><a href="http://www.jrq.me" target="_black">金融圈</a></li>
+     <li><a href="http://www.wangdaizhijia.com" target="_black">网贷之家</a></li>
+     <li><a href="http://www.p2peye.com" target="_black">网贷天眼</a></li>
+     <li><a href="http://www.wangdaitianshi.com/portal.php" target="_black">网贷天使</a></li>
+   </ul>
+</div>
+
+<!--底部版权-->
+<div class="newsb2index_bottom_copyright">
+   <ul class="newsb2index_px1000">
+      <li style="margin-left:160px;"><img src="${HomeStatics}/new/images/bottom_logo_1.gif" /></li>
+      <li><img src="${HomeStatics}/new/images/bottom_logo_2.gif" /></li>
+      <li><img src="${HomeStatics}/new/images/bottom_logo_3.gif" /></li>
+      <li><img src="${HomeStatics}/new/images/bottom_logo_4.gif" /></li>
+      <li><img src="${HomeStatics}/new/images/bottom_logo_5.gif" /></li>
+      <li><img src="${HomeStatics}/new/images/bottom_logo_6.gif" /></li>
+   </ul>
+</div>
+
+<div class="newsb2index_bottom_text">
+<p class="newsb2index_px1000">© 2015 融圣360 All rights reserved  深圳前海融圣叁陆零互联网金融服务有限公司 粤ICP备15044164号</p>
+</div>
+<!-- footer end -->
+<%@ include file="../../Home/Common/footer_member.jsp"%>	

@@ -1,0 +1,77 @@
+@charset "utf-8";
+/* CSS Document */
+.black10{clear:both; height:10px; overflow:hidden; display:block;}
+.beta_box_white{height:100%; width:100%; background:#ffffff;font-size:16px; color:#666666;}
+.beta_box_red{background:#ff606f;height:100%; width:100%;font-size:16px; color:#ffffff;}
+.beta_box_grey{background:#f8f8f8;height:100%; width:100%;font-size:16px;}
+
+
+
+
+/*banner*/
+.beta_banner{ background:url(../images/beta_banner.png) no-repeat center; height:600px; margin-top:-10px;}
+
+/*活动导语*/
+.beta_lead{height:220px;}
+.beta_lead_text{width:730px;}
+.beta_lead_text p.title{ height:64px; line-height:64px; font-size:24px; margin-top:30px;}
+
+.beta_lead_btn{width:200px; height:58px; margin:79px 0 0 70px;}
+.beta_lead_btn a{ background:url(../images/beta_btn_1.png) no-repeat; font-size:20px; text-align:center; display:block; height:58px; line-height:58px;color:#ffffff;}
+.beta_lead_btn a:hover{ background:url(../images/beta_btn_1_hover.png) no-repeat;}
+
+
+/*活动一*/
+.beta_act1{ height:1100px;}
+.beta_act1_map{ text-align:center; width:1000px;}
+.beta_act1_description{ padding:20px 0 0 100px;}
+.beta_act1_description p{ height:30px; line-height:30px;}
+.beta_act1_description p.title{ font-size:28px; height:90px; line-height:90px; font-weight:bold;}
+.beta_act1_colour{ background:url(../images/beta_colour.png) no-repeat center; height:176px;}
+
+/*无间隙滚动*/
+.beta_roll{ height:390px; color:#ffffff; font-size:14px;}
+.beta_roll_l{width:450px; height:307px; background:#e45562; margin-right:20px; padding-left:40px; }
+.beta_roll_l h1{ font-size:28px; font-weight:bold; text-align:center; height:80px; line-height:80px;}
+.beta_roll_l ul{ overflow:hidden;}
+.beta_roll_l ul li{ float:left; text-align:left; height:32px; line-height:32px;}
+.beta_roll_l ul span{
+	float:left;	
+}
+.introTitle{
+	  width: 450px;
+  height: 200px;
+  overflow:hidden;
+}
+.beta_roll_l ul span.name{ width:106px;}
+.beta_roll_l ul span.get{ width:235px;}
+.beta_roll_l ul span.time{ width:80px;}
+
+
+
+/*活动二*/
+.beta_act2{ height:450px; background:url(../images/beta_act2.png) no-repeat center;}
+.beta_act2_l{width:600px; height:450px;}
+.beta_act2_r{}
+.beta_act2_r p{ height:29px;line-height:29px;}
+.beta_act2_r p.title{font-size:28px;color:#414141; font-weight:bold; height:93px; line-height:93px; margin-top:47px;}
+
+.beta_act2_r p.btn{width:137px; height:40px; margin-top:50px;}
+.beta_act2_r p.btn a{color:#ffffff; font-size:18px; background:url(../images/beta_btn_2.png) no-repeat; text-align:center;display:block; height:40px; line-height:40px;}
+.beta_act2_r p.btn a:hover{ background:url(../images/beta_btn_2_hover.png) no-repeat;}
+
+
+
+/*微信扫码*/
+.beta_code{height:320px; text-align:center; font-size:20px; padding:60px 0 0 0;}
+.beta_code p.text{ height:90px; line-height:90px;}
+
+
+
+/*最终解释权*/
+.beta_power{ height:90px; line-height:90px; text-align:center; font-size:20px;color:#8c8c8c;}
+
+
+/*左下角漂浮二维码*/
+.beta_code_2{ width:141px; height:231px; background:url(../images/beta_code_2.png) no-repeat; position:fixed;bottom:250px;left:260px; _position:absolute;}
+
